@@ -1,6 +1,6 @@
 name: luna-streaming
 title: Luna Streaming Documentation
-version: v0.1.0-draft
+version: v0.2.0-draft
 start_page: luna-streaming::overview.adoc
 
 asciidoc:
